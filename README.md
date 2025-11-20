@@ -27,9 +27,6 @@ A modular Streamlit application that uses Google's Gemini AI to analyze and prov
 - 📊 Detailed analysis results
 - 🧩 Modular code structure for easy maintenance
 
-## Demo
-![Demo Screenshot](demo_screenshot.png)
-
 ---
 
 ## Project Structure
