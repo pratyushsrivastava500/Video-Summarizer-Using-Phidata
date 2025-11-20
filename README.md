@@ -113,6 +113,7 @@ streamlit run main.py
 - Google Gemini AI
 - Phidata Framework
 - Streamlit Team
+
 ---
 
 ## 📧 Contact
@@ -122,7 +123,9 @@ For questions, suggestions, or support:
 **Project Maintainer**: Pratyush Srivastava  
 **Email**: pratyushsrivastava500@gmail.com  
 **GitHub**: [@pratyushsrivastava500](https://github.com/pratyushsrivastava500)
---- 
+
+---
+
 <div align="center">
   <strong>Made with ❤️ and Python | © 2025 Pratyush Srivastava</strong>
 </div>
